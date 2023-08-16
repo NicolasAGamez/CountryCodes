@@ -1,0 +1,2243 @@
+[
+  {
+    "line": "011 Cultivos agr�colas transitorios."
+  },
+  {
+    "line": "0111 Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas."
+  },
+  {
+    "line": "0112 Cultivo de arroz."
+  },
+  {
+    "line": "0113 Cultivo de hortalizas, ra�ces y tub�rculos."
+  },
+  {
+    "line": "0114 Cultivo de tabaco."
+  },
+  {
+    "line": "0115 Cultivo de plantas textiles."
+  },
+  {
+    "line": "0119 Otros cultivos transitorios n.c.p."
+  },
+  {
+    "line": "012 Cultivos agr�colas permanentes."
+  },
+  {
+    "line": "0121 Cultivo de frutas tropicales y subtropicales."
+  },
+  {
+    "line": "0122 Cultivo de pl�tano y banano."
+  },
+  {
+    "line": "0123 Cultivo de caf�."
+  },
+  {
+    "line": "0124 Cultivo de ca�a de az�car."
+  },
+  {
+    "line": "0125 Cultivo de flor de corte."
+  },
+  {
+    "line": "0126 Cultivo de palma para aceite (palma africana) y otros frutos oleaginosos."
+  },
+  {
+    "line": "0127 Cultivo de plantas con las que se preparan bebidas."
+  },
+  {
+    "line": "0128 Cultivo de especias y de plantas arom�ticas y medicinales."
+  },
+  {
+    "line": "0129 Otros cultivos permanentes n.c.p."
+  },
+  {
+    "line": "013 Propagaci�n de plantas (actividades de los viveros, excepto viveros forestales)."
+  },
+  {
+    "line": "0130 Propagaci�n de plantas (actividades de los viveros, excepto viveros forestales)."
+  },
+  {
+    "line": "014 Ganader�a."
+  },
+  {
+    "line": "0141 Cr�a de ganado bovino y bufalino."
+  },
+  {
+    "line": "0142 Cr�a de caballos y otros equinos."
+  },
+  {
+    "line": "0143 Cr�a de ovejas y cabras."
+  },
+  {
+    "line": "0144 Cr�a de ganado porcino."
+  },
+  {
+    "line": "0145 Cr�a de aves de corral."
+  },
+  {
+    "line": "0149 Cr�a de otros animales n.c.p."
+  },
+  {
+    "line": "015 Explotaci�n mixta (agr�cola y pecuaria)."
+  },
+  {
+    "line": "0150 Explotaci�n mixta (agr�cola y pecuaria)."
+  },
+  {
+    "line": "016 Actividades de apoyo a la agricultura y la ganader�a, y actividades posteriores a la cosecha."
+  },
+  {
+    "line": "0161 Actividades de apoyo a la agricultura."
+  },
+  {
+    "line": "0162 Actividades de apoyo a la ganader�a."
+  },
+  {
+    "line": "0163 Actividades posteriores a la cosecha."
+  },
+  {
+    "line": "0164 Tratamiento de semillas para propagaci�n."
+  },
+  {
+    "line": "017 Caza ordinaria y mediante trampas y actividades de servicios conexas."
+  },
+  {
+    "line": "0170 Caza ordinaria y mediante trampas y actividades de servicios conexas."
+  },
+  {
+    "line": "021 Silvicultura y otras actividades forestales."
+  },
+  {
+    "line": "0210 Silvicultura y otras actividades forestales."
+  },
+  {
+    "line": "022 Extracci�n de madera."
+  },
+  {
+    "line": "0220 Extracci�n de madera."
+  },
+  {
+    "line": "023 Recolecci�n de productos forestales diferentes a la madera."
+  },
+  {
+    "line": "0230 Recolecci�n de productos forestales diferentes a la madera."
+  },
+  {
+    "line": "024 Servicios de apoyo a la silvicultura."
+  },
+  {
+    "line": "0240 Servicios de apoyo a la silvicultura."
+  },
+  {
+    "line": "031 Pesca."
+  },
+  {
+    "line": "0311 Pesca mar�tima."
+  },
+  {
+    "line": "0312 Pesca de agua dulce."
+  },
+  {
+    "line": "032 Acuicultura."
+  },
+  {
+    "line": "0321 Acuicultura mar�tima."
+  },
+  {
+    "line": "0322 Acuicultura de agua dulce."
+  },
+  {
+    "line": "051 Extracci�n de hulla (carb�n de piedra)."
+  },
+  {
+    "line": "0510 Extracci�n de hulla (carb�n de piedra)."
+  },
+  {
+    "line": "052 Extracci�n de carb�n lignito."
+  },
+  {
+    "line": "0520 Extracci�n de carb�n lignito."
+  },
+  {
+    "line": "061 Extracci�n de petr�leo crudo."
+  },
+  {
+    "line": "0610 Extracci�n de petr�leo crudo."
+  },
+  {
+    "line": "062 Extracci�n de gas natural."
+  },
+  {
+    "line": "0620 Extracci�n de gas natural."
+  },
+  {
+    "line": "071 Extracci�n de minerales de hierro."
+  },
+  {
+    "line": "0710 Extracci�n de minerales de hierro."
+  },
+  {
+    "line": "072 Extracci�n de minerales metal�feros no ferrosos."
+  },
+  {
+    "line": "0721 Extracci�n de minerales de uranio y de torio."
+  },
+  {
+    "line": "0722 Extracci�n de oro y otros metales preciosos."
+  },
+  {
+    "line": "0723 Extracci�n de minerales de n�quel."
+  },
+  {
+    "line": "0729 Extracci�n de otros minerales metal�feros no ferrosos n.c.p."
+  },
+  {
+    "line": "081 Extracci�n de piedra, arena, arcillas, cal, yeso, caol�n, bentonitas y similares."
+  },
+  {
+    "line": "0811 Extracci�n de piedra, arena, arcillas comunes, yeso y anhidrita."
+  },
+  {
+    "line": "0812 Extracci�n de arcillas de uso industrial, caliza, caol�n y bentonitas."
+  },
+  {
+    "line": "082 Extracci�n de esmeraldas, piedras preciosas y semipreciosas."
+  },
+  {
+    "line": "0820 Extracci�n de esmeraldas, piedras preciosas y semipreciosas."
+  },
+  {
+    "line": "089 Extracci�n de otros minerales no met�licos n.c.p."
+  },
+  {
+    "line": "0891 Extracci�n de minerales para la fabricaci�n de abonos y productos qu�micos."
+  },
+  {
+    "line": "0892 Extracci�n de halita (sal)."
+  },
+  {
+    "line": "0899 Extracci�n de otros minerales no met�licos n.c.p."
+  },
+  {
+    "line": "091 Actividades de apoyo para la extracci�n de petr�leo y de gas natural."
+  },
+  {
+    "line": "0910 Actividades de apoyo para la extracci�n de petr�leo y de gas natural."
+  },
+  {
+    "line": "099 Actividades de apoyo para otras actividades de explotaci�n de minas y canteras."
+  },
+  {
+    "line": "0990 Actividades de apoyo para otras actividades de explotaci�n de minas y canteras."
+  },
+  {
+    "line": "101 Procesamiento y conservaci�n de carne, pescado, crust�ceos y moluscos."
+  },
+  {
+    "line": "1011 Procesamiento y conservaci�n de carne y productos c�rnicos."
+  },
+  {
+    "line": "1012 Procesamiento y conservaci�n de pescados, crust�ceos y moluscos."
+  },
+  {
+    "line": "102 Procesamiento y conservaci�n de frutas, legumbres, hortalizas y tub�rculos."
+  },
+  {
+    "line": "1020 Procesamiento y conservaci�n de frutas, legumbres, hortalizas y tub�rculos."
+  },
+  {
+    "line": "103 Elaboraci�n de aceites y grasas de origen vegetal y animal."
+  },
+  {
+    "line": "1030 Elaboraci�n de aceites y grasas de origen vegetal y animal."
+  },
+  {
+    "line": "104 Elaboraci�n de productos l�cteos."
+  },
+  {
+    "line": "1040 Elaboraci�n de productos l�cteos."
+  },
+  {
+    "line": "105 Elaboraci�n de productos de moliner�a, almidones y productos derivados del almid�n."
+  },
+  {
+    "line": "1051 Elaboraci�n de productos de moliner�a."
+  },
+  {
+    "line": "1052 Elaboraci�n de almidones y productos derivados del almid�n."
+  },
+  {
+    "line": "106 Elaboraci�n de productos de caf�."
+  },
+  {
+    "line": "1061 Trilla de caf�."
+  },
+  {
+    "line": "1062 Descafeinado, tosti�n y molienda del caf�."
+  },
+  {
+    "line": "1063 Otros derivados del caf�."
+  },
+  {
+    "line": "107 Elaboraci�n de az�car y panela."
+  },
+  {
+    "line": "1071 Elaboraci�n y refinaci�n de az�car."
+  },
+  {
+    "line": "1072 Elaboraci�n de panela."
+  },
+  {
+    "line": "108 Elaboraci�n de otros productos alimenticios."
+  },
+  {
+    "line": "1081 Elaboraci�n de productos de panader�a."
+  },
+  {
+    "line": "1082 Elaboraci�n de cacao, chocolate y productos de confiter�a."
+  },
+  {
+    "line": "1083 Elaboraci�n de macarrones, fideos, alcuzcuz y productos farin�ceos similares."
+  },
+  {
+    "line": "1084 Elaboraci�n de comidas y platos preparados."
+  },
+  {
+    "line": "1089 Elaboraci�n de otros productos alimenticios n.c.p."
+  },
+  {
+    "line": "109 Elaboraci�n de alimentos preparados para animales."
+  },
+  {
+    "line": "1090 Elaboraci�n de alimentos preparados para animales."
+  },
+  {
+    "line": "110 Elaboraci�n de bebidas."
+  },
+  {
+    "line": "1101 Destilaci�n, rectificaci�n y mezcla de bebidas alcoh�licas."
+  },
+  {
+    "line": "1102 Elaboraci�n de bebidas fermentadas no destiladas."
+  },
+  {
+    "line": "1103 Producci�n de malta, elaboraci�n de cervezas y otras bebidas malteadas."
+  },
+  {
+    "line": "1104 Elaboraci�n de bebidas no alcoh�licas, producci�n de aguas minerales y de otras aguas embotelladas."
+  },
+  {
+    "line": "120 Elaboraci�n de productos de tabaco."
+  },
+  {
+    "line": "1200 Elaboraci�n de productos de tabaco."
+  },
+  {
+    "line": "131 Preparaci�n, hilatura, tejedur�a y acabado de productos textiles."
+  },
+  {
+    "line": "1311 Preparaci�n e hilatura de fibras textiles."
+  },
+  {
+    "line": "1312 Tejedur�a de productos textiles."
+  },
+  {
+    "line": "1313 Acabado de productos textiles."
+  },
+  {
+    "line": "139 Fabricaci�n de otros productos textiles."
+  },
+  {
+    "line": "1391 Fabricaci�n de tejidos de punto y ganchillo."
+  },
+  {
+    "line": "1392 Confecci�n de art�culos con materiales textiles, excepto prendas de vestir."
+  },
+  {
+    "line": "1393 Fabricaci�n de tapetes y alfombras para pisos."
+  },
+  {
+    "line": "1394 Fabricaci�n de cuerdas, cordeles, cables, bramantes y redes."
+  },
+  {
+    "line": "1399 Fabricaci�n de otros art�culos textiles n.c.p."
+  },
+  {
+    "line": "141 Confecci�n de prendas de vestir, excepto prendas de piel."
+  },
+  {
+    "line": "1410 Confecci�n de prendas de vestir, excepto prendas de piel."
+  },
+  {
+    "line": "142 Fabricaci�n de art�culos de piel."
+  },
+  {
+    "line": "1420 Fabricaci�n de art�culos de piel."
+  },
+  {
+    "line": "143 Fabricaci�n de art�culos de punto y ganchillo."
+  },
+  {
+    "line": "1430 Fabricaci�n de art�culos de punto y ganchillo."
+  },
+  {
+    "line": "151 Curtido y recurtido de cueros; fabricaci�n de art�culos de viaje, bolsos de mano y art�culos similares, y fabricaci�n de art�culos de talabarter�a y guarnicioner�a, adobo y te�ido de pieles."
+  },
+  {
+    "line": "1511 Curtido y recurtido de cueros; recurtido y te�ido de pieles."
+  },
+  {
+    "line": "1512 Fabricaci�n de art�culos de viaje, bolsos de mano y art�culos similares elaborados en cuero, y fabricaci�n de art�culos de talabarter�a y guarnicioner�a."
+  },
+  {
+    "line": "1513 Fabricaci�n de art�culos de viaje, bolsos de mano y art�culos similares; art�culos de talabarter�a y guarnicioner�a elaborados en otros materiales."
+  },
+  {
+    "line": "152 Fabricaci�n de calzado."
+  },
+  {
+    "line": "1521 Fabricaci�n de calzado de cuero y piel, con cualquier tipo de suela."
+  },
+  {
+    "line": "1522 Fabricaci�n de otros tipos de calzado, excepto calzado de cuero y piel."
+  },
+  {
+    "line": "1523 Fabricaci�n de partes del calzado."
+  },
+  {
+    "line": "161 Aserrado, acepillado e impregnaci�n de la madera."
+  },
+  {
+    "line": "1610 Aserrado, acepillado e impregnaci�n de la madera."
+  },
+  {
+    "line": "162 Fabricaci�n de hojas de madera para enchapado; fabricaci�n de tableros contrachapados, tableros laminados, tableros de part�culas y otros tableros y paneles."
+  },
+  {
+    "line": "1620 Fabricaci�n de hojas de madera para enchapado; fabricaci�n de tableros contra�chapados, tableros laminados, tableros de part�culas y otros tableros y paneles."
+  },
+  {
+    "line": "163 Fabricaci�n de partes y piezas de madera, de carpinter�a y ebanister�a para la construcci�n."
+  },
+  {
+    "line": "1630 Fabricaci�n de partes y piezas de madera, de carpinter�a y ebanister�a para la construcci�n."
+  },
+  {
+    "line": "164 Fabricaci�n de recipientes de madera."
+  },
+  {
+    "line": "1640 Fabricaci�n de recipientes de madera."
+  },
+  {
+    "line": "169 Fabricaci�n de otros productos de madera; fabricaci�n de art�culos de corcho, cester�a y esparter�a."
+  },
+  {
+    "line": "1690 Fabricaci�n de otros productos de madera; fabricaci�n de art�culos de corcho, cester�a y esparter�a."
+  },
+  {
+    "line": "170 Fabricaci�n de papel, cart�n y productos de papel y cart�n."
+  },
+  {
+    "line": "1701 Fabricaci�n de pulpas (pastas) celul�sicas; papel y cart�n."
+  },
+  {
+    "line": "1702 Fabricaci�n de papel y cart�n ondulado (corrugado); fabricaci�n de envases, empaques y de embalajes de papel y cart�n."
+  },
+  {
+    "line": "1709 Fabricaci�n de otros art�culos de papel y cart�n."
+  },
+  {
+    "line": "181 Actividades de impresi�n y actividades de servicios relacionados con la impresi�n."
+  },
+  {
+    "line": "1811 Actividades de impresi�n."
+  },
+  {
+    "line": "1812 Actividades de servicios relacionados con la impresi�n."
+  },
+  {
+    "line": "182 Producci�n de copias a partir de grabaciones originales."
+  },
+  {
+    "line": "1820 Producci�n de copias a partir de grabaciones originales."
+  },
+  {
+    "line": "191 Fabricaci�n de productos de hornos de coque."
+  },
+  {
+    "line": "1910 Fabricaci�n de productos de hornos de coque."
+  },
+  {
+    "line": "192 Fabricaci�n de productos de la refinaci�n del petr�leo."
+  },
+  {
+    "line": "1921 Fabricaci�n de productos de la refinaci�n del petr�leo."
+  },
+  {
+    "line": "1922 Actividad de mezcla de combustibles."
+  },
+  {
+    "line": "201 Fabricaci�n de sustancias qu�micas b�sicas, abonos y compuestos inorg�nicos nitrogenados, pl�sticos y caucho sint�tico en formas primarias."
+  },
+  {
+    "line": "2011 Fabricaci�n de sustancias y productos qu�micos b�sicos."
+  },
+  {
+    "line": "2012 Fabricaci�n de abonos y compuestos inorg�nicos nitrogenados."
+  },
+  {
+    "line": "2013 Fabricaci�n de pl�sticos en formas primarias."
+  },
+  {
+    "line": "2014 Fabricaci�n de caucho sint�tico en formas primarias."
+  },
+  {
+    "line": "202 Fabricaci�n de otros productos qu�micos."
+  },
+  {
+    "line": "2021 Fabricaci�n de plaguicidas y otros productos qu�micos de uso agropecuario."
+  },
+  {
+    "line": "2022 Fabricaci�n de pinturas, barnices y revestimientos similares, tintas para impresi�n y masillas."
+  },
+  {
+    "line": "2023 Fabricaci�n de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador."
+  },
+  {
+    "line": "2029 Fabricaci�n de otros productos qu�micos n.c.p."
+  },
+  {
+    "line": "203 Fabricaci�n de fibras sint�ticas y artificiales."
+  },
+  {
+    "line": "2030 Fabricaci�n de fibras sint�ticas y artificiales."
+  },
+  {
+    "line": "210 Fabricaci�n de productos farmac�uticos, sustancias qu�micas medicinales y productos bot�nicos de uso farmac�utico."
+  },
+  {
+    "line": "2100 Fabricaci�n de productos farmac�uticos, sustancias qu�micas medicinales y pro�ductos bot�nicos de uso farmac�utico."
+  },
+  {
+    "line": "221 Fabricaci�n de productos de caucho."
+  },
+  {
+    "line": "2211 Fabricaci�n de llantas y neum�ticos de caucho"
+  },
+  {
+    "line": "2212 Reencauche de llantas usadas"
+  },
+  {
+    "line": "2219 Fabricaci�n de formas b�sicas de caucho y otros productos de caucho n.c.p."
+  },
+  {
+    "line": "222 Fabricaci�n de productos de pl�stico."
+  },
+  {
+    "line": "2221 Fabricaci�n de formas b�sicas de pl�stico."
+  },
+  {
+    "line": "2229 Fabricaci�n de art�culos de pl�stico n.c.p."
+  },
+  {
+    "line": "231 Fabricaci�n de vidrio y productos de vidrio."
+  },
+  {
+    "line": "2310 Fabricaci�n de vidrio y productos de vidrio."
+  },
+  {
+    "line": "239 Fabricaci�n de productos minerales no met�licos n.c.p."
+  },
+  {
+    "line": "2391 Fabricaci�n de productos refractarios."
+  },
+  {
+    "line": "2392 Fabricaci�n de materiales de arcilla para la construcci�n."
+  },
+  {
+    "line": "2393 Fabricaci�n de otros productos de cer�mica y porcelana."
+  },
+  {
+    "line": "2394 Fabricaci�n de cemento, cal y yeso."
+  },
+  {
+    "line": "2395 Fabricaci�n de art�culos de hormig�n, cemento y yeso."
+  },
+  {
+    "line": "2396 Corte, tallado y acabado de la piedra."
+  },
+  {
+    "line": "2399 Fabricaci�n de otros productos minerales no met�licos n.c.p."
+  },
+  {
+    "line": "241 Industrias b�sicas de hierro y de acero."
+  },
+  {
+    "line": "2410 Industrias b�sicas de hierro y de acero."
+  },
+  {
+    "line": "242 Industrias b�sicas de metales preciosos y de metales no ferrosos."
+  },
+  {
+    "line": "2421 Industrias b�sicas de metales preciosos."
+  },
+  {
+    "line": "2429 Industrias b�sicas de otros metales no ferrosos."
+  },
+  {
+    "line": "243 Fundici�n de metales."
+  },
+  {
+    "line": "2431 Fundici�n de hierro y de acero."
+  },
+  {
+    "line": "2432 Fundici�n de metales no ferrosos."
+  },
+  {
+    "line": "251 Fabricaci�n de productos met�licos para uso estructural, tanques, dep�sitos y generadores de vapor."
+  },
+  {
+    "line": "2511 Fabricaci�n de productos met�licos para uso estructural."
+  },
+  {
+    "line": "2512 Fabricaci�n de tanques, dep�sitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercanc�as."
+  },
+  {
+    "line": "2513 Fabricaci�n de generadores de vapor, excepto calderas de agua caliente para calefacci�n central."
+  },
+  {
+    "line": "252 Fabricaci�n de armas y municiones."
+  },
+  {
+    "line": "2520 Fabricaci�n de armas y municiones."
+  },
+  {
+    "line": "259 Fabricaci�n de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales."
+  },
+  {
+    "line": "2591 Forja, prensado, estampado y laminado de metal; pulvimetalurgia."
+  },
+  {
+    "line": "2592 Tratamiento y revestimiento de metales; mecanizado."
+  },
+  {
+    "line": "2593 Fabricaci�n de art�culos de cuchiller�a, herramientas de mano y art�culos de ferreter�a."
+  },
+  {
+    "line": "2599 Fabricaci�n de otros productos elaborados de metal n.c.p."
+  },
+  {
+    "line": "261 Fabricaci�n de componentes y tableros electr�nicos."
+  },
+  {
+    "line": "2610 Fabricaci�n de componentes y tableros electr�nicos."
+  },
+  {
+    "line": "262 Fabricaci�n de computadoras y de equipo perif�rico."
+  },
+  {
+    "line": "2620 Fabricaci�n de computadoras y de equipo perif�rico."
+  },
+  {
+    "line": "263 Fabricaci�n de equipos de comunicaci�n."
+  },
+  {
+    "line": "2630 Fabricaci�n de equipos de comunicaci�n."
+  },
+  {
+    "line": "264 Fabricaci�n de aparatos electr�nicos de consumo."
+  },
+  {
+    "line": "2640 Fabricaci�n de aparatos electr�nicos de consumo."
+  },
+  {
+    "line": "265 Fabricaci�n de equipo de medici�n, prueba, navegaci�n y control; fabricaci�n de relojes."
+  },
+  {
+    "line": "2651 Fabricaci�n de equipo de medici�n, prueba, navegaci�n y control."
+  },
+  {
+    "line": "2652 Fabricaci�n de relojes."
+  },
+  {
+    "line": "266 Fabricaci�n de equipo de irradiaci�n y equipo electr�nico de uso m�dico y terap�utico."
+  },
+  {
+    "line": "2660 Fabricaci�n de equipo de irradiaci�n y equipo electr�nico de uso m�dico y tera�p�utico."
+  },
+  {
+    "line": "267 Fabricaci�n de instrumentos �pticos y equipo fotogr�fico."
+  },
+  {
+    "line": "2670 Fabricaci�n de instrumentos �pticos y equipo fotogr�fico."
+  },
+  {
+    "line": "268 Fabricaci�n de medios magn�ticos y �pticos para almacenamiento de datos."
+  },
+  {
+    "line": "2680 Fabricaci�n de medios magn�ticos y �pticos para almacenamiento de datos."
+  },
+  {
+    "line": "271 Fabricaci�n de motores, generadores y transformadores el�ctricos y de aparatos de distribuci�n y control de la energ�a el�ctrica."
+  },
+  {
+    "line": "2711 Fabricaci�n de motores, generadores y transformadores el�ctricos."
+  },
+  {
+    "line": "2712 Fabricaci�n de aparatos de distribuci�n y control de la energ�a el�ctrica."
+  },
+  {
+    "line": "272 Fabricaci�n de pilas, bater�as y acumuladores el�ctricos."
+  },
+  {
+    "line": "2720 Fabricaci�n de pilas, bater�as y acumuladores el�ctricos."
+  },
+  {
+    "line": "273 Fabricaci�n de hilos y cables aislados y sus dispositivos."
+  },
+  {
+    "line": "2731 Fabricaci�n de hilos y cables el�ctricos y de fibra �ptica."
+  },
+  {
+    "line": "2732 Fabricaci�n de dispositivos de cableado."
+  },
+  {
+    "line": "274 Fabricaci�n de equipos el�ctricos de iluminaci�n."
+  },
+  {
+    "line": "2740 Fabricaci�n de equipos el�ctricos de iluminaci�n."
+  },
+  {
+    "line": "275 Fabricaci�n de aparatos de uso dom�stico."
+  },
+  {
+    "line": "2750 Fabricaci�n de aparatos de uso dom�stico."
+  },
+  {
+    "line": "279 Fabricaci�n de otros tipos de equipo el�ctrico n.c.p."
+  },
+  {
+    "line": "2790 Fabricaci�n de otros tipos de equipo el�ctrico n.c.p."
+  },
+  {
+    "line": "281 Fabricaci�n de maquinaria y equipo de uso general."
+  },
+  {
+    "line": "2811 Fabricaci�n de motores, turbinas, y partes para motores de combusti�n interna."
+  },
+  {
+    "line": "2812 Fabricaci�n de equipos de potencia hidr�ulica y neum�tica."
+  },
+  {
+    "line": "2813 Fabricaci�n de otras bombas, compresores, grifos y v�lvulas."
+  },
+  {
+    "line": "2814 Fabricaci�n de cojinetes, engranajes, trenes de engranajes y piezas de transmisi�n."
+  },
+  {
+    "line": "2815 Fabricaci�n de hornos, hogares y quemadores industriales."
+  },
+  {
+    "line": "2816 Fabricaci�n de equipo de elevaci�n y manipulaci�n."
+  },
+  {
+    "line": "2817 Fabricaci�n de maquinaria y equipo de oficina (excepto computadoras y equipo perif�rico)."
+  },
+  {
+    "line": "2818 Fabricaci�n de herramientas manuales con motor."
+  },
+  {
+    "line": "2819 Fabricaci�n de otros tipos de maquinaria y equipo de uso general n.c.p."
+  },
+  {
+    "line": "282 Fabricaci�n de maquinaria y equipo de uso especial."
+  },
+  {
+    "line": "2821 Fabricaci�n de maquinaria agropecuaria y forestal."
+  },
+  {
+    "line": "2822 Fabricaci�n de m�quinas formadoras de metal y de m�quinas herramienta."
+  },
+  {
+    "line": "2823 Fabricaci�n de maquinaria para la metalurgia."
+  },
+  {
+    "line": "2824 Fabricaci�n de maquinaria para explotaci�n de minas y canteras y para obras de construcci�n."
+  },
+  {
+    "line": "2825 Fabricaci�n de maquinaria para la elaboraci�n de alimentos, bebidas y tabaco."
+  },
+  {
+    "line": "2826 Fabricaci�n de maquinaria para la elaboraci�n de productos textiles, prendas de vestir y cueros."
+  },
+  {
+    "line": "2829 Fabricaci�n de otros tipos de maquinaria y equipo de uso especial n.c.p."
+  },
+  {
+    "line": "291 Fabricaci�n de veh�culos automotores y sus motores."
+  },
+  {
+    "line": "2910 Fabricaci�n de veh�culos automotores y sus motores."
+  },
+  {
+    "line": "292 Fabricaci�n de carrocer�as para veh�culos automotores; fabricaci�n de remol�ques y semirremolques."
+  },
+  {
+    "line": "2920 Fabricaci�n de carrocer�as para veh�culos automotores; fabricaci�n de remolques y semirremolques."
+  },
+  {
+    "line": "293 Fabricaci�n de partes, piezas (autopartes) y accesorios (lujos) para veh�culos automotores."
+  },
+  {
+    "line": "2930 Fabricaci�n de partes, piezas (autopartes) y accesorios (lujos) para veh�culos automotores."
+  },
+  {
+    "line": "301 Construcci�n de barcos y otras embarcaciones."
+  },
+  {
+    "line": "3011 Construcci�n de barcos y de estructuras flotantes."
+  },
+  {
+    "line": "3012 Construcci�n de embarcaciones de recreo y deporte."
+  },
+  {
+    "line": "302 Fabricaci�n de locomotoras y de material rodante para ferrocarriles."
+  },
+  {
+    "line": "3020 Fabricaci�n de locomotoras y de material rodante para ferrocarriles."
+  },
+  {
+    "line": "303 Fabricaci�n de aeronaves, naves espaciales y de maquinaria conexa."
+  },
+  {
+    "line": "3030 Fabricaci�n de aeronaves, naves espaciales y de maquinaria conexa."
+  },
+  {
+    "line": "304 Fabricaci�n de veh�culos militares de combate."
+  },
+  {
+    "line": "3040 Fabricaci�n de veh�culos militares de combate."
+  },
+  {
+    "line": "309 Fabricaci�n de otros tipos de equipo de transporte n.c.p."
+  },
+  {
+    "line": "3091 Fabricaci�n de motocicletas."
+  },
+  {
+    "line": "3092 Fabricaci�n de bicicletas y de sillas de ruedas para personas con discapacidad."
+  },
+  {
+    "line": "3099 Fabricaci�n de otros tipos de equipo de transporte n.c.p."
+  },
+  {
+    "line": "311 Fabricaci�n de muebles."
+  },
+  {
+    "line": "3110 Fabricaci�n de muebles."
+  },
+  {
+    "line": "312 Fabricaci�n de colchones y somieres."
+  },
+  {
+    "line": "3120 Fabricaci�n de colchones y somieres."
+  },
+  {
+    "line": "321 Fabricaci�n de joyas, bisuter�a y art�culos conexos."
+  },
+  {
+    "line": "3210 Fabricaci�n de joyas, bisuter�a y art�culos conexos."
+  },
+  {
+    "line": "322 Fabricaci�n de instrumentos musicales."
+  },
+  {
+    "line": "3220 Fabricaci�n de instrumentos musicales."
+  },
+  {
+    "line": "323 Fabricaci�n de art�culos y equipo para la pr�ctica del deporte."
+  },
+  {
+    "line": "3230 Fabricaci�n de art�culos y equipo para la pr�ctica del deporte."
+  },
+  {
+    "line": "324 Fabricaci�n de juegos, juguetes y rompecabezas."
+  },
+  {
+    "line": "3240 Fabricaci�n de juegos, juguetes y rompecabezas."
+  },
+  {
+    "line": "325 Fabricaci�n de instrumentos, aparatos y materiales m�dicos y odontol�gicos (incluido mobiliario)."
+  },
+  {
+    "line": "3250 Fabricaci�n de instrumentos, aparatos y materiales m�dicos y odontol�gicos (incluido mobiliario)."
+  },
+  {
+    "line": "329 Otras industrias manufactureras n.c.p."
+  },
+  {
+    "line": "3290 Otras industrias manufactureras n.c.p."
+  },
+  {
+    "line": "331 Mantenimiento y reparaci�n especializado de productos elaborados en metal y de maquinaria y equipo."
+  },
+  {
+    "line": "3311 Mantenimiento y reparaci�n especializado de productos elaborados en metal."
+  },
+  {
+    "line": "3312 Mantenimiento y reparaci�n especializado de maquinaria y equipo."
+  },
+  {
+    "line": "3313 Mantenimiento y reparaci�n especializado de equipo electr�nico y �ptico."
+  },
+  {
+    "line": "3314 Mantenimiento y reparaci�n especializado de equipo el�ctrico."
+  },
+  {
+    "line": "3315 Mantenimiento y reparaci�n especializado de equipo de transporte, excepto los veh�culos automotores, motocicletas y bicicletas."
+  },
+  {
+    "line": "3319 Mantenimiento y reparaci�n de otros tipos de equipos y sus componentes n.c.p."
+  },
+  {
+    "line": "332 Instalaci�n especializada de maquinaria y equipo industrial."
+  },
+  {
+    "line": "3320 Instalaci�n especializada de maquinaria y equipo industrial."
+  },
+  {
+    "line": "351 Generaci�n, transmisi�n, distribuci�n y comercializaci�n de energ�a el�ctrica."
+  },
+  {
+    "line": "3511 Generaci�n de energ�a el�ctrica."
+  },
+  {
+    "line": "3512 Transmisi�n de energ�a el�ctrica."
+  },
+  {
+    "line": "3513 Distribuci�n de energ�a el�ctrica."
+  },
+  {
+    "line": "3514 Comercializaci�n de energ�a el�ctrica."
+  },
+  {
+    "line": "352 Producci�n de gas; distribuci�n de combustibles gaseosos por tuber�as."
+  },
+  {
+    "line": "3520 Producci�n de gas; distribuci�n de combustibles gaseosos por tuber�as."
+  },
+  {
+    "line": "353 Suministro de vapor y aire acondicionado."
+  },
+  {
+    "line": "3530 Suministro de vapor y aire acondicionado."
+  },
+  {
+    "line": "360 Captaci�n, tratamiento y distribuci�n de agua."
+  },
+  {
+    "line": "3600 Captaci�n, tratamiento y distribuci�n de agua."
+  },
+  {
+    "line": "370 Evacuaci�n y tratamiento de aguas residuales."
+  },
+  {
+    "line": "3700 Evacuaci�n y tratamiento de aguas residuales."
+  },
+  {
+    "line": "381 Recolecci�n de desechos."
+  },
+  {
+    "line": "3811 Recolecci�n de desechos no peligrosos."
+  },
+  {
+    "line": "3812 Recolecci�n de desechos peligrosos."
+  },
+  {
+    "line": "382 Tratamiento y disposici�n de desechos."
+  },
+  {
+    "line": "3821 Tratamiento y disposici�n de desechos no peligrosos."
+  },
+  {
+    "line": "3822 Tratamiento y disposici�n de desechos peligrosos."
+  },
+  {
+    "line": "383 Recuperaci�n de materiales."
+  },
+  {
+    "line": "3830 Recuperaci�n de materiales."
+  },
+  {
+    "line": "390 Actividades de saneamiento ambiental y otros servicios de gesti�n de desechos."
+  },
+  {
+    "line": "3900 Actividades de saneamiento ambiental y otros servicios de gesti�n de desechos."
+  },
+  {
+    "line": "411 Construcci�n de edificios."
+  },
+  {
+    "line": "4111 Construcci�n de edificios residenciales."
+  },
+  {
+    "line": "4112 Construcci�n de edificios no residenciales."
+  },
+  {
+    "line": "421 Construcci�n de carreteras y v�as de ferrocarril."
+  },
+  {
+    "line": "4210 Construcci�n de carreteras y v�as de ferrocarril."
+  },
+  {
+    "line": "422 Construcci�n de proyectos de servicio p�blico."
+  },
+  {
+    "line": "4220 Construcci�n de proyectos de servicio p�blico."
+  },
+  {
+    "line": "429 Construcci�n de otras obras de ingenier�a civil."
+  },
+  {
+    "line": "4290 Construcci�n de otras obras de ingenier�a civil."
+  },
+  {
+    "line": "431 Demolici�n y preparaci�n del terreno."
+  },
+  {
+    "line": "4311 Demolici�n."
+  },
+  {
+    "line": "4312 Preparaci�n del terreno."
+  },
+  {
+    "line": "432 Instalaciones el�ctricas, de fontaner�a y otras instalaciones especializadas."
+  },
+  {
+    "line": "4321 Instalaciones el�ctricas."
+  },
+  {
+    "line": "4322 Instalaciones de fontaner�a, calefacci�n y aire acondicionado."
+  },
+  {
+    "line": "4329 Otras instalaciones especializadas."
+  },
+  {
+    "line": "433 Terminaci�n y acabado de edificios y obras de ingenier�a civil."
+  },
+  {
+    "line": "4330 Terminaci�n y acabado de edificios y obras de ingenier�a civil."
+  },
+  {
+    "line": "439 Otras actividades especializadas para la construcci�n de edificios y obras de ingenier�a civil."
+  },
+  {
+    "line": "4390 Otras actividades especializadas para la construcci�n de edificios y obras de ingenier�a civil."
+  },
+  {
+    "line": "451 Comercio de veh�culos automotores."
+  },
+  {
+    "line": "4511 Comercio de veh�culos automotores nuevos."
+  },
+  {
+    "line": "4512 Comercio de veh�culos automotores usados."
+  },
+  {
+    "line": "452 Mantenimiento y reparaci�n de veh�culos automotores."
+  },
+  {
+    "line": "4520 Mantenimiento y reparaci�n de veh�culos automotores."
+  },
+  {
+    "line": "453 Comercio de partes, piezas (autopartes) y accesorios (lujos) para veh�culos automotores."
+  },
+  {
+    "line": "4530 Comercio de partes, piezas (autopartes) y accesorios (lujos) para veh�culos automotores."
+  },
+  {
+    "line": "454 Comercio, mantenimiento y reparaci�n de motocicletas y de sus partes, piezas y accesorios."
+  },
+  {
+    "line": "4541 Comercio de motocicletas y de sus partes, piezas y accesorios."
+  },
+  {
+    "line": "4542 Mantenimiento y reparaci�n de motocicletas y de sus partes y piezas."
+  },
+  {
+    "line": "46 Comercio al por mayor y en comisi�n o por contrata, excepto el comercio de veh�culos automotores y motocicletas."
+  },
+  {
+    "line": "461 Comercio al por mayor a cambio de una retribuci�n o por contrata."
+  },
+  {
+    "line": "4610 Comercio al por mayor a cambio de una retribuci�n o por contrata."
+  },
+  {
+    "line": "462 Comercio al por mayor de materias primas agropecuarias; animales vivos."
+  },
+  {
+    "line": "4620 Comercio al por mayor de materias primas agropecuarias; animales vivos."
+  },
+  {
+    "line": "463 Comercio al por mayor de alimentos, bebidas y tabaco."
+  },
+  {
+    "line": "4631 Comercio al por mayor de productos alimenticios."
+  },
+  {
+    "line": "4632 Comercio al por mayor de bebidas y tabaco."
+  },
+  {
+    "line": "464 Comercio al por mayor de art�culos y enseres dom�sticos (incluidas prendas de vestir)."
+  },
+  {
+    "line": "4641 Comercio al por mayor de productos textiles, productos confeccionados para uso dom�stico."
+  },
+  {
+    "line": "4642 Comercio al por mayor de prendas de vestir."
+  },
+  {
+    "line": "4643 Comercio al por mayor de calzado."
+  },
+  {
+    "line": "4644 Comercio al por mayor de aparatos y equipo de uso dom�stico."
+  },
+  {
+    "line": "4645 Comercio al por mayor de productos farmac�uticos, medicinales, cosm�ticos y de tocador."
+  },
+  {
+    "line": "4649 Comercio al por mayor de otros utensilios dom�sticos n.c.p."
+  },
+  {
+    "line": "465 Comercio al por mayor de maquinaria y equipo."
+  },
+  {
+    "line": "4651 Comercio al por mayor de computadores, equipo perif�rico y programas de inform�tica."
+  },
+  {
+    "line": "4652 Comercio al por mayor de equipo, partes y piezas electr�nicos y de telecomuni�caciones."
+  },
+  {
+    "line": "4653 Comercio al por mayor de maquinaria y equipo agropecuarios."
+  },
+  {
+    "line": "4659 Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p."
+  },
+  {
+    "line": "466 Comercio al por mayor especializado de otros productos."
+  },
+  {
+    "line": "4661 Comercio al por mayor de combustibles s�lidos, l�quidos, gaseosos y productos conexos."
+  },
+  {
+    "line": "4662 Comercio al por mayor de metales y productos metal�feros."
+  },
+  {
+    "line": "4663 Comercio al por mayor de materiales de construcci�n, art�culos de ferreter�a, pinturas, productos de vidrio, equipo y materiales de fontaner�a y calefacci�n."
+  },
+  {
+    "line": "4664 Comercio al por mayor de productos qu�micos b�sicos, cauchos y pl�sticos en formas primarias y productos qu�micos de uso agropecuario."
+  },
+  {
+    "line": "4665 Comercio al por mayor de desperdicios, desechos y chatarra."
+  },
+  {
+    "line": "4669 Comercio al por mayor de otros productos n.c.p."
+  },
+  {
+    "line": "469 Comercio al por mayor no especializado."
+  },
+  {
+    "line": "4690 Comercio al por mayor no especializado."
+  },
+  {
+    "line": "471 Comercio al por menor en establecimientos no especializados."
+  },
+  {
+    "line": "4711 Comercio al por menor en establecimientos no especializados con surtido com�puesto principalmente por alimentos, bebidas o tabaco."
+  },
+  {
+    "line": "4719 Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (v�veres en general), bebidas y tabaco."
+  },
+  {
+    "line": "472 Comercio al por menor de alimentos (v�veres en general), bebidas y tabaco, en establecimientos especializados."
+  },
+  {
+    "line": "4721 Comercio al por menor de productos agr�colas para el consumo en establecimientos especializados."
+  },
+  {
+    "line": "4722 Comercio al por menor de leche, productos l�cteos y huevos, en establecimientos especializados."
+  },
+  {
+    "line": "4723 Comercio al por menor de carnes (incluye aves de corral), productos c�rnicos, pescados y productos de mar, en establecimientos especializados."
+  },
+  {
+    "line": "4724 Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados."
+  },
+  {
+    "line": "4729 Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados."
+  },
+  {
+    "line": "473 Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores, en establecimientos especializados."
+  },
+  {
+    "line": "4731 Comercio al por menor de combustible para automotores."
+  },
+  {
+    "line": "4732 Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para veh�culos automotores."
+  },
+  {
+    "line": "474 Comercio al por menor de equipos de inform�tica y de comunicaciones, en establecimientos especializados."
+  },
+  {
+    "line": "4741 Comercio al por menor de computadores, equipos perif�ricos, programas de inform�tica y equipos de telecomunicaciones en establecimientos especializados."
+  },
+  {
+    "line": "4742 Comercio al por menor de equipos y aparatos de sonido y de video, en establecimientos especializados."
+  },
+  {
+    "line": "475 Comercio al por menor de otros enseres dom�sticos en establecimientos especializados."
+  },
+  {
+    "line": "4751 Comercio al por menor de productos textiles en establecimientos especializados."
+  },
+  {
+    "line": "4752 Comercio al por menor de art�culos de ferreter�a, pinturas y productos de vidrio en establecimientos especializados."
+  },
+  {
+    "line": "4753 Comercio al por menor de tapices, alfombras y cubrimientos para paredes y pisos en establecimientos especializados."
+  },
+  {
+    "line": "4754 Comercio al por menor de electrodom�sticos y gasodom�sticos de uso dom�stico, muebles y equipos de iluminaci�n."
+  },
+  {
+    "line": "4755 Comercio al por menor de art�culos y utensilios de uso dom�stico."
+  },
+  {
+    "line": "4759 Comercio al por menor de otros art�culos dom�sticos en establecimientos especializados."
+  },
+  {
+    "line": "476 Comercio al por menor de art�culos culturales y de entretenimiento, en establecimientos especializados."
+  },
+  {
+    "line": "4761 Comercio al por menor de libros, peri�dicos, materiales y art�culos de papeler�a y escritorio, en establecimientos especializados."
+  },
+  {
+    "line": "4762 Comercio al por menor de art�culos deportivos, en establecimientos especializados."
+  },
+  {
+    "line": "4769 Comercio al por menor de otros art�culos culturales y de entretenimiento n.c.p. en establecimientos especializados."
+  },
+  {
+    "line": "477 Comercio al por menor de otros productos en establecimientos especializados."
+  },
+  {
+    "line": "4771 Comercio al por menor de prendas de vestir y sus accesorios (incluye art�culos de piel) en establecimientos especializados."
+  },
+  {
+    "line": "4772 Comercio al por menor de todo tipo de calzado y art�culos de cuero y suced�neos del cuero en establecimientos especializados."
+  },
+  {
+    "line": "4773 Comercio al por menor de productos farmac�uticos y medicinales, cosm�ticos y art�culos de tocador en establecimientos especializados."
+  },
+  {
+    "line": "4774 Comercio al por menor de otros productos nuevos en establecimientos especializados."
+  },
+  {
+    "line": "4775 Comercio al por menor de art�culos de segunda mano."
+  },
+  {
+    "line": "478 Comercio al por menor en puestos de venta m�viles."
+  },
+  {
+    "line": "4781 Comercio al por menor de alimentos, bebidas y tabaco, en puestos de venta m�viles."
+  },
+  {
+    "line": "4782 Comercio al por menor de productos textiles, prendas de vestir y calzado, en puestos de venta m�viles."
+  },
+  {
+    "line": "4789 Comercio al por menor de otros productos en puestos de venta m�viles."
+  },
+  {
+    "line": "479 Comercio al por menor no realizado en establecimientos, puestos de venta o mercados."
+  },
+  {
+    "line": "4791 Comercio al por menor realizado a trav�s de internet."
+  },
+  {
+    "line": "4792 Comercio al por menor realizado a trav�s de casas de venta o por correo."
+  },
+  {
+    "line": "4799 Otros tipos de comercio al por menor no realizado en establecimientos, puestos de venta o mercados."
+  },
+  {
+    "line": "491 Transporte f�rreo."
+  },
+  {
+    "line": "4911 Transporte f�rreo de pasajeros."
+  },
+  {
+    "line": "4912 Transporte f�rreo de carga."
+  },
+  {
+    "line": "492 Transporte terrestre p�blico automotor."
+  },
+  {
+    "line": "4921 Transporte de pasajeros."
+  },
+  {
+    "line": "4922 Transporte mixto."
+  },
+  {
+    "line": "4923 Transporte de carga por carretera."
+  },
+  {
+    "line": "493 Transporte por tuber�as."
+  },
+  {
+    "line": "4930 Transporte por tuber�as."
+  },
+  {
+    "line": "501 Transporte mar�timo y de cabotaje."
+  },
+  {
+    "line": "5011 Transporte de pasajeros mar�timo y de cabotaje."
+  },
+  {
+    "line": "5012 Transporte de carga mar�timo y de cabotaje."
+  },
+  {
+    "line": "502 Transporte fluvial."
+  },
+  {
+    "line": "5021 Transporte fluvial de pasajeros."
+  },
+  {
+    "line": "5022 Transporte fluvial de carga."
+  },
+  {
+    "line": "511 Transporte a�reo de pasajeros."
+  },
+  {
+    "line": "5111 Transporte a�reo nacional de pasajeros."
+  },
+  {
+    "line": "5112 Transporte a�reo internacional de pasajeros."
+  },
+  {
+    "line": "512 Transporte a�reo de carga."
+  },
+  {
+    "line": "5121 Transporte a�reo nacional de carga."
+  },
+  {
+    "line": "5122 Transporte a�reo internacional de carga."
+  },
+  {
+    "line": "521 Almacenamiento y dep�sito."
+  },
+  {
+    "line": "5210 Almacenamiento y dep�sito."
+  },
+  {
+    "line": "522 Actividades de las estaciones, v�as y servicios complementarios para el transporte."
+  },
+  {
+    "line": "5221 Actividades de estaciones, v�as y servicios complementarios para el transporte terrestre."
+  },
+  {
+    "line": "5222 Actividades de puertos y servicios complementarios para el transporte acu�tico."
+  },
+  {
+    "line": "5223 Actividades de aeropuertos, servicios de navegaci�n a�rea y dem�s actividades conexas al transporte a�reo."
+  },
+  {
+    "line": "5224 Manipulaci�n de carga."
+  },
+  {
+    "line": "5229 Otras actividades complementarias al transporte."
+  },
+  {
+    "line": "531 Actividades postales nacionales."
+  },
+  {
+    "line": "5310 Actividades postales nacionales."
+  },
+  {
+    "line": "532 Actividades de mensajer�a."
+  },
+  {
+    "line": "5320 Actividades de mensajer�a."
+  },
+  {
+    "line": "551 Actividades de alojamiento de estancias cortas."
+  },
+  {
+    "line": "5511 Alojamiento en hoteles."
+  },
+  {
+    "line": "5512 Alojamiento en apartahoteles."
+  },
+  {
+    "line": "5513 Alojamiento en centros vacacionales."
+  },
+  {
+    "line": "5514 Alojamiento rural."
+  },
+  {
+    "line": "5519 Otros tipos de alojamientos para visitantes."
+  },
+  {
+    "line": "552 Actividades de zonas de camping y parques para veh�culos recreacionales."
+  },
+  {
+    "line": "5520 Actividades de zonas de camping y parques para veh�culos recreacionales."
+  },
+  {
+    "line": "553 Servicio por horas."
+  },
+  {
+    "line": "5530 Servicio por horas"
+  },
+  {
+    "line": "559 Otros tipos de alojamiento n.c.p."
+  },
+  {
+    "line": "5590 Otros tipos de alojamiento n.c.p."
+  },
+  {
+    "line": "561 Actividades de restaurantes, cafeter�as y servicio m�vil de comidas."
+  },
+  {
+    "line": "5611 Expendio a la mesa de comidas preparadas."
+  },
+  {
+    "line": "5612 Expendio por autoservicio de comidas preparadas."
+  },
+  {
+    "line": "5613 Expendio de comidas preparadas en cafeter�as."
+  },
+  {
+    "line": "5619 Otros tipos de expendio de comidas preparadas n.c.p."
+  },
+  {
+    "line": "562 Actividades de catering para eventos y otros servicios de comidas."
+  },
+  {
+    "line": "5621 Catering para eventos."
+  },
+  {
+    "line": "5629 Actividades de otros servicios de comidas."
+  },
+  {
+    "line": "563 Expendio de bebidas alcoh�licas para el consumo dentro del establecimiento."
+  },
+  {
+    "line": "5630 Expendio de bebidas alcoh�licas para el consumo dentro del establecimiento."
+  },
+  {
+    "line": "581 Edici�n de libros, publicaciones peri�dicas y otras actividades de edici�n."
+  },
+  {
+    "line": "5811 Edici�n de libros."
+  },
+  {
+    "line": "5812 Edici�n de directorios y listas de correo."
+  },
+  {
+    "line": "5813 Edici�n de peri�dicos, revistas y otras publicaciones peri�dicas."
+  },
+  {
+    "line": "5819 Otros trabajos de edici�n."
+  },
+  {
+    "line": "582 Edici�n de programas de inform�tica (software)."
+  },
+  {
+    "line": "5820 Edici�n de programas de inform�tica (software)."
+  },
+  {
+    "line": "591 Actividades de producci�n de pel�culas cinematogr�ficas, video y producci�n de programas, anuncios y comerciales de televisi�n."
+  },
+  {
+    "line": "5911 Actividades de producci�n de pel�culas cinematogr�ficas, videos, programas, anuncios y comerciales de televisi�n."
+  },
+  {
+    "line": "5912 Actividades de posproducci�n de pel�culas cinematogr�ficas, videos, programas, anuncios y comerciales de televisi�n."
+  },
+  {
+    "line": "5913 Actividades de distribuci�n de pel�culas cinematogr�ficas, videos, programas, anuncios y comerciales de televisi�n."
+  },
+  {
+    "line": "5914 Actividades de exhibici�n de pel�culas cinematogr�ficas y videos."
+  },
+  {
+    "line": "592 Actividades de grabaci�n de sonido y edici�n de m�sica."
+  },
+  {
+    "line": "5920 Actividades de grabaci�n de sonido y edici�n de m�sica."
+  },
+  {
+    "line": "601 Actividades de programaci�n y transmisi�n en el servicio de radiodifusi�n sonora."
+  },
+  {
+    "line": "6010 Actividades de programaci�n y transmisi�n en el servicio de radiodifusi�n sonora."
+  },
+  {
+    "line": "602 Actividades de programaci�n y transmisi�n de televisi�n."
+  },
+  {
+    "line": "6020 Actividades de programaci�n y transmisi�n de televisi�n."
+  },
+  {
+    "line": "611 Actividades de telecomunicaciones al�mbricas."
+  },
+  {
+    "line": "6110 Actividades de telecomunicaciones al�mbricas."
+  },
+  {
+    "line": "612 Actividades de telecomunicaciones inal�mbricas."
+  },
+  {
+    "line": "6120 Actividades de telecomunicaciones inal�mbricas."
+  },
+  {
+    "line": "613 Actividades de telecomunicaci�n satelital."
+  },
+  {
+    "line": "6130 Actividades de telecomunicaci�n satelital."
+  },
+  {
+    "line": "619 Otras actividades de telecomunicaciones."
+  },
+  {
+    "line": "6190 Otras actividades de telecomunicaciones."
+  },
+  {
+    "line": "620 Desarrollo de sistemas inform�ticos (planificaci�n, an�lisis, dise�o, programa�ci�n, pruebas), consultor�a inform�tica y actividades relacionadas."
+  },
+  {
+    "line": "6201 Actividades de desarrollo de sistemas inform�ticos (planificaci�n, an�lisis, dise�o, programaci�n, pruebas)."
+  },
+  {
+    "line": "6202 Actividades de consultor�a inform�tica y actividades de administraci�n de instalaciones inform�ticas."
+  },
+  {
+    "line": "6209 Otras actividades de tecnolog�as de informaci�n y actividades de servicios inform�ticos."
+  },
+  {
+    "line": "631 Procesamiento de datos, alojamiento (hosting) y actividades relacionadas; portales web."
+  },
+  {
+    "line": "6311 Procesamiento de datos, alojamiento (hosting) y actividades relacionadas."
+  },
+  {
+    "line": "6312 Portales web."
+  },
+  {
+    "line": "639 Otras actividades de servicio de informaci�n."
+  },
+  {
+    "line": "6391 Actividades de agencias de noticias."
+  },
+  {
+    "line": "6399 Otras actividades de servicio de informaci�n n.c.p."
+  },
+  {
+    "line": "641 Intermediaci�n monetaria."
+  },
+  {
+    "line": "6411 Banco Central."
+  },
+  {
+    "line": "6412 Bancos comerciales."
+  },
+  {
+    "line": "642 Otros tipos de intermediaci�n monetaria."
+  },
+  {
+    "line": "6421 Actividades de las corporaciones financieras."
+  },
+  {
+    "line": "6422 Actividades de las compa��as de financiamiento."
+  },
+  {
+    "line": "6423 Banca de segundo piso."
+  },
+  {
+    "line": "6424 Actividades de las cooperativas financieras."
+  },
+  {
+    "line": "643 Fideicomisos, fondos (incluye fondos de cesant�as) y entidades financieras similares."
+  },
+  {
+    "line": "6431 Fideicomisos, fondos y entidades financieras similares."
+  },
+  {
+    "line": "6432 Fondos de cesant�as."
+  },
+  {
+    "line": "649 Otras actividades de servicio financiero, excepto las de seguros y pensiones."
+  },
+  {
+    "line": "6491 Leasing financiero (arrendamiento financiero)."
+  },
+  {
+    "line": "6492 Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario."
+  },
+  {
+    "line": "6493 Actividades de compra de cartera o factoring."
+  },
+  {
+    "line": "6494 Otras actividades de distribuci�n de fondos."
+  },
+  {
+    "line": "6495 Instituciones especiales oficiales."
+  },
+  {
+    "line": "6499 Otras actividades de servicio financiero, excepto las de seguros y pensiones n.c.p."
+  },
+  {
+    "line": "651 Seguros y capitalizaci�n."
+  },
+  {
+    "line": "6511 Seguros generales."
+  },
+  {
+    "line": "6512 Seguros de vida."
+  },
+  {
+    "line": "6513 Reaseguros."
+  },
+  {
+    "line": "6514 Capitalizaci�n."
+  },
+  {
+    "line": "652 Servicios de seguros sociales de salud y riesgos profesionales."
+  },
+  {
+    "line": "6521 Servicios de seguros sociales de salud."
+  },
+  {
+    "line": "6522 Servicios de seguros sociales de riesgos profesionales."
+  },
+  {
+    "line": "653 Servicios de seguros sociales de pensiones."
+  },
+  {
+    "line": "6531 R�gimen de prima media con prestaci�n definida (RPM)."
+  },
+  {
+    "line": "6532 R�gimen de ahorro individual (RAI)."
+  },
+  {
+    "line": "661 Actividades auxiliares de las actividades de servicios financieros, excepto las de seguros y pensiones."
+  },
+  {
+    "line": "6611 Administraci�n de mercados financieros."
+  },
+  {
+    "line": "6612 Corretaje de valores y de contratos de productos b�sicos."
+  },
+  {
+    "line": "6613 Otras actividades relacionadas con el mercado de valores."
+  },
+  {
+    "line": "6614 Actividades de las casas de cambio."
+  },
+  {
+    "line": "6615 Actividades de los profesionales de compra y venta de divisas."
+  },
+  {
+    "line": "6619 Otras actividades auxiliares de las actividades de servicios financieros n.c.p."
+  },
+  {
+    "line": "662 Actividades de servicios auxiliares de los servicios de seguros y pensiones."
+  },
+  {
+    "line": "6621 Actividades de agentes y corredores de seguros"
+  },
+  {
+    "line": "6629 Evaluaci�n de riesgos y da�os, y otras actividades de servicios auxiliares"
+  },
+  {
+    "line": "663 Actividades de administraci�n de fondos."
+  },
+  {
+    "line": "6630 Actividades de administraci�n de fondos."
+  },
+  {
+    "line": "681 Actividades inmobiliarias realizadas con bienes propios o arrendados."
+  },
+  {
+    "line": "6810 Actividades inmobiliarias realizadas con bienes propios o arrendados."
+  },
+  {
+    "line": "682 Actividades inmobiliarias realizadas a cambio de una retribuci�n o por contrata."
+  },
+  {
+    "line": "6820 Actividades inmobiliarias realizadas a cambio de una retribuci�n o por contrata."
+  },
+  {
+    "line": "691 Actividades jur�dicas."
+  },
+  {
+    "line": "6910 Actividades jur�dicas."
+  },
+  {
+    "line": "692 Actividades de contabilidad, tenedur�a de libros, auditor�a financiera y asesor�a tributaria."
+  },
+  {
+    "line": "6920 Actividades de contabilidad, tenedur�a de libros, auditor�a financiera y asesor�a tributaria."
+  },
+  {
+    "line": "701 Actividades de administraci�n empresarial."
+  },
+  {
+    "line": "7010 Actividades de administraci�n empresarial."
+  },
+  {
+    "line": "702 Actividades de consultar�a de gesti�n."
+  },
+  {
+    "line": "7020 Actividades de consultar�a de gesti�n."
+  },
+  {
+    "line": "711 Actividades de arquitectura e ingenier�a y otras actividades conexas de consultor�a t�cnica."
+  },
+  {
+    "line": "7110 Actividades de arquitectura e ingenier�a y otras actividades conexas de consultor�a t�cnica."
+  },
+  {
+    "line": "712 Ensayos y an�lisis t�cnicos."
+  },
+  {
+    "line": "7120 Ensayos y an�lisis t�cnicos."
+  },
+  {
+    "line": "721 Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingenier�a."
+  },
+  {
+    "line": "7210 Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingenier�a."
+  },
+  {
+    "line": "722 Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades."
+  },
+  {
+    "line": "7220 Investigaciones y desarrollo experimental en el campo de las ciencias sociales y las humanidades."
+  },
+  {
+    "line": "731 Publicidad."
+  },
+  {
+    "line": "7310 Publicidad."
+  },
+  {
+    "line": "732 Estudios de mercado y realizaci�n de encuestas de opini�n p�blica."
+  },
+  {
+    "line": "7320 Estudios de mercado y realizaci�n de encuestas de opini�n p�blica."
+  },
+  {
+    "line": "741 Actividades especializadas de dise�o."
+  },
+  {
+    "line": "7410 Actividades especializadas de dise�o."
+  },
+  {
+    "line": "742 Actividades de fotograf�a."
+  },
+  {
+    "line": "7420 Actividades de fotograf�a."
+  },
+  {
+    "line": "749 Otras actividades profesionales, cient�ficas y t�cnicas n.c.p."
+  },
+  {
+    "line": "7490 Otras actividades profesionales, cient�ficas y t�cnicas n.c.p."
+  },
+  {
+    "line": "750 Actividades veterinarias."
+  },
+  {
+    "line": "7500 Actividades veterinarias."
+  },
+  {
+    "line": "771 Alquiler y arrendamiento de veh�culos automotores."
+  },
+  {
+    "line": "7710 Alquiler y arrendamiento de veh�culos automotores."
+  },
+  {
+    "line": "772 Alquiler y arrendamiento de efectos personales y enseres dom�sticos."
+  },
+  {
+    "line": "7721 Alquiler y arrendamiento de equipo recreativo y deportivo."
+  },
+  {
+    "line": "7722 Alquiler de videos y discos."
+  },
+  {
+    "line": "7729 Alquiler y arrendamiento de otros efectos personales y enseres dom�sticos n.c.p."
+  },
+  {
+    "line": "773 Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p."
+  },
+  {
+    "line": "7730 Alquiler y arrendamiento de otros tipos de maquinaria, equipo y bienes tangibles n.c.p."
+  },
+  {
+    "line": "774 Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor."
+  },
+  {
+    "line": "7740 Arrendamiento de propiedad intelectual y productos similares, excepto obras protegidas por derechos de autor."
+  },
+  {
+    "line": "781 Actividades de agencias de empleo."
+  },
+  {
+    "line": "7810 Actividades de agencias de empleo."
+  },
+  {
+    "line": "782 Actividades de agencias de empleo temporal."
+  },
+  {
+    "line": "7820 Actividades de agencias de empleo temporal."
+  },
+  {
+    "line": "783 Otras actividades de suministro de recurso humano."
+  },
+  {
+    "line": "7830 Otras actividades de suministro de recurso humano."
+  },
+  {
+    "line": "791 Actividades de las agencias de viajes y operadores tur�sticos."
+  },
+  {
+    "line": "7911 Actividades de las agencias de viaje."
+  },
+  {
+    "line": "7912 Actividades de operadores tur�sticos."
+  },
+  {
+    "line": "799 Otros servicios de reserva y actividades relacionadas."
+  },
+  {
+    "line": "7990 Otros servicios de reserva y actividades relacionadas."
+  },
+  {
+    "line": "801 Actividades de seguridad privada."
+  },
+  {
+    "line": "8010 Actividades de seguridad privada."
+  },
+  {
+    "line": "802 Actividades de servicios de sistemas de seguridad."
+  },
+  {
+    "line": "8020 Actividades de servicios de sistemas de seguridad."
+  },
+  {
+    "line": "803 Actividades de detectives e investigadores privados."
+  },
+  {
+    "line": "8030 Actividades de detectives e investigadores privados."
+  },
+  {
+    "line": "811 Actividades combinadas de apoyo a instalaciones."
+  },
+  {
+    "line": "8110 Actividades combinadas de apoyo a instalaciones."
+  },
+  {
+    "line": "812 Actividades de limpieza."
+  },
+  {
+    "line": "8121 Limpieza general interior de edificios."
+  },
+  {
+    "line": "8129 Otras actividades de limpieza de edificios e instalaciones industriales."
+  },
+  {
+    "line": "813 Actividades de paisajismo y servicios de mantenimiento conexos."
+  },
+  {
+    "line": "8130 Actividades de paisajismo y servicios de mantenimiento conexos."
+  },
+  {
+    "line": "821 Actividades administrativas y de apoyo de oficina."
+  },
+  {
+    "line": "8211 Actividades combinadas de servicios administrativos de oficina."
+  },
+  {
+    "line": "8219 Fotocopiado, preparaci�n de documentos y otras actividades especializadas de apoyo a oficina."
+  },
+  {
+    "line": "822 Actividades de centros de llamadas (Call center)."
+  },
+  {
+    "line": "8220 Actividades de centros de llamadas (Call center)."
+  },
+  {
+    "line": "823 Organizaci�n de convenciones y eventos comerciales."
+  },
+  {
+    "line": "8230 Organizaci�n de convenciones y eventos comerciales."
+  },
+  {
+    "line": "829 Actividades de servicios de apoyo a las empresas n.c.p."
+  },
+  {
+    "line": "8291 Actividades de agencias de cobranza y oficinas de calificaci�n crediticia."
+  },
+  {
+    "line": "8292 Actividades de envase y empaque."
+  },
+  {
+    "line": "8299 Otras actividades de servicio de apoyo a las empresas n.c.p."
+  },
+  {
+    "line": "841 Administraci�n del Estado y aplicaci�n de la pol�tica econ�mica y social de la comunidad."
+  },
+  {
+    "line": "8411 Actividades legislativas de la administraci�n p�blica."
+  },
+  {
+    "line": "8412 Actividades ejecutivas de la administraci�n p�blica."
+  },
+  {
+    "line": "8413 Regulaci�n de las actividades de organismos que prestan servicios de salud, edu�cativos, culturales y otros servicios sociales, excepto servicios de seguridad social."
+  },
+  {
+    "line": "8414 Actividades reguladoras y facilitadoras de la actividad econ�mica."
+  },
+  {
+    "line": "8415 Actividades de los otros �rganos de control."
+  },
+  {
+    "line": "842 Prestaci�n de servicios a la comunidad en general."
+  },
+  {
+    "line": "8421 Relaciones exteriores."
+  },
+  {
+    "line": "8422 Actividades de defensa."
+  },
+  {
+    "line": "8423 Orden p�blico y actividades de seguridad."
+  },
+  {
+    "line": "8424 Administraci�n de justicia."
+  },
+  {
+    "line": "843 Actividades de planes de seguridad social de afiliaci�n obligatoria."
+  },
+  {
+    "line": "8430 Actividades de planes de seguridad social de afiliaci�n obligatoria."
+  },
+  {
+    "line": "851 Educaci�n de la primera infancia, preescolar y b�sica primaria."
+  },
+  {
+    "line": "8511 Educaci�n de la primera infancia."
+  },
+  {
+    "line": "8512 Educaci�n preescolar."
+  },
+  {
+    "line": "8513 Educaci�n b�sica primaria."
+  },
+  {
+    "line": "852 Educaci�n secundaria y de formaci�n laboral."
+  },
+  {
+    "line": "8521 Educaci�n b�sica secundaria."
+  },
+  {
+    "line": "8522 Educaci�n media acad�mica."
+  },
+  {
+    "line": "8523 Educaci�n media t�cnica y de formaci�n laboral."
+  },
+  {
+    "line": "853 Establecimientos que combinan diferentes niveles de educaci�n."
+  },
+  {
+    "line": "8530 Establecimientos que combinan diferentes niveles de educaci�n."
+  },
+  {
+    "line": "854 Educaci�n superior."
+  },
+  {
+    "line": "8541 Educaci�n t�cnica profesional."
+  },
+  {
+    "line": "8542 Educaci�n tecnol�gica."
+  },
+  {
+    "line": "8543 Educaci�n de instituciones universitarias o de escuelas tecnol�gicas."
+  },
+  {
+    "line": "8544 Educaci�n de universidades."
+  },
+  {
+    "line": "855 Otros tipos de educaci�n."
+  },
+  {
+    "line": "8551 Formaci�n acad�mica no formal."
+  },
+  {
+    "line": "8552 Ense�anza deportiva y recreativa."
+  },
+  {
+    "line": "8553 Ense�anza cultural."
+  },
+  {
+    "line": "8559 Otros tipos de educaci�n n.c.p."
+  },
+  {
+    "line": "856 Actividades de apoyo a la educaci�n."
+  },
+  {
+    "line": "8560 Actividades de apoyo a la educaci�n."
+  },
+  {
+    "line": "861 Actividades de hospitales y cl�nicas, con internaci�n."
+  },
+  {
+    "line": "8610 Actividades de hospitales y cl�nicas, con internaci�n."
+  },
+  {
+    "line": "862 Actividades de pr�ctica m�dica y odontol�gica, sin internaci�n."
+  },
+  {
+    "line": "8621 Actividades de la pr�ctica m�dica, sin internaci�n."
+  },
+  {
+    "line": "8622 Actividades de la pr�ctica odontol�gica."
+  },
+  {
+    "line": "869 Otras actividades de atenci�n relacionadas con la salud humana."
+  },
+  {
+    "line": "8691 Actividades de apoyo diagn�stico."
+  },
+  {
+    "line": "8692 Actividades de apoyo terap�utico."
+  },
+  {
+    "line": "8699 Otras actividades de atenci�n de la salud humana."
+  },
+  {
+    "line": "871 Actividades de atenci�n residencial medicalizada de tipo general."
+  },
+  {
+    "line": "8710 Actividades de atenci�n residencial medicalizada de tipo general."
+  },
+  {
+    "line": "872 Actividades de atenci�n residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas."
+  },
+  {
+    "line": "8720 Actividades de atenci�n residencial, para el cuidado de pacientes con retardo mental, enfermedad mental y consumo de sustancias psicoactivas."
+  },
+  {
+    "line": "873 Actividades de atenci�n en instituciones para el cuidado de personas mayores y/o discapacitadas."
+  },
+  {
+    "line": "8730 Actividades de atenci�n en instituciones para el cuidado de personas mayores y/o discapacitadas."
+  },
+  {
+    "line": "879 Otras actividades de atenci�n en instituciones con alojamiento."
+  },
+  {
+    "line": "8790 Otras actividades de atenci�n en instituciones con alojamiento"
+  },
+  {
+    "line": "881 Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas."
+  },
+  {
+    "line": "8810 Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas."
+  },
+  {
+    "line": "889 Otras actividades de asistencia social sin alojamiento."
+  },
+  {
+    "line": "8890 Otras actividades de asistencia social sin alojamiento."
+  },
+  {
+    "line": "900 Actividades creativas, art�sticas y de entretenimiento."
+  },
+  {
+    "line": "9001 Creaci�n literaria."
+  },
+  {
+    "line": "9002 Creaci�n musical."
+  },
+  {
+    "line": "9003 Creaci�n teatral."
+  },
+  {
+    "line": "9004 Creaci�n audiovisual."
+  },
+  {
+    "line": "9005 Artes pl�sticas y visuales."
+  },
+  {
+    "line": "9006 Actividades teatrales."
+  },
+  {
+    "line": "9007 Actividades de espect�culos musicales en vivo."
+  },
+  {
+    "line": "9008 Otras actividades de espect�culos en vivo."
+  },
+  {
+    "line": "910 Actividades de bibliotecas, archivos, museos y otras actividades culturales."
+  },
+  {
+    "line": "9101 Actividades de bibliotecas y archivos."
+  },
+  {
+    "line": "9102 Actividades y funcionamiento de museos, conservaci�n de edificios y sitios hist�ricos."
+  },
+  {
+    "line": "9103 Actividades de jardines bot�nicos, zool�gicos y reservas naturales."
+  },
+  {
+    "line": "920 Actividades de juegos de azar y apuestas."
+  },
+  {
+    "line": "9200 Actividades de juegos de azar y apuestas."
+  },
+  {
+    "line": "931 Actividades deportivas."
+  },
+  {
+    "line": "9311 Gesti�n de instalaciones deportivas."
+  },
+  {
+    "line": "9312 Actividades de clubes deportivos."
+  },
+  {
+    "line": "9319 Otras actividades deportivas."
+  },
+  {
+    "line": "932 Otras actividades recreativas y de esparcimiento."
+  },
+  {
+    "line": "9321 Actividades de parques de atracciones y parques tem�ticos."
+  },
+  {
+    "line": "9329 Otras actividades recreativas y de esparcimiento n.c.p."
+  },
+  {
+    "line": "941 Actividades de asociaciones empresariales y de empleadores, y asociaciones profesionales."
+  },
+  {
+    "line": "9411 Actividades de asociaciones empresariales y de empleadores"
+  },
+  {
+    "line": "9412 Actividades de asociaciones profesionales"
+  },
+  {
+    "line": "942 Actividades de sindicatos de empleados."
+  },
+  {
+    "line": "9420 Actividades de sindicatos de empleados."
+  },
+  {
+    "line": "949 Actividades de otras asociaciones."
+  },
+  {
+    "line": "9491 Actividades de asociaciones religiosas."
+  },
+  {
+    "line": "9492 Actividades de asociaciones pol�ticas."
+  },
+  {
+    "line": "9499 Actividades de otras asociaciones n.c.p."
+  },
+  {
+    "line": "951 Mantenimiento y reparaci�n de computadores y equipo de comunicaciones."
+  },
+  {
+    "line": "9511 Mantenimiento y reparaci�n de computadores y de equipo perif�rico."
+  },
+  {
+    "line": "9512 Mantenimiento y reparaci�n de equipos de comunicaci�n."
+  },
+  {
+    "line": "952 Mantenimiento y reparaci�n de efectos personales y enseres dom�sticos."
+  },
+  {
+    "line": "9521 Mantenimiento y reparaci�n de aparatos electr�nicos de consumo."
+  },
+  {
+    "line": "9522 Mantenimiento y reparaci�n de aparatos y equipos dom�sticos y de jardiner�a."
+  },
+  {
+    "line": "9523 Reparaci�n de calzado y art�culos de cuero."
+  },
+  {
+    "line": "9524 Reparaci�n de muebles y accesorios para el hogar."
+  },
+  {
+    "line": "9529 Mantenimiento y reparaci�n de otros efectos personales y enseres dom�sticos."
+  },
+  {
+    "line": "960 Otras actividades de servicios personales."
+  },
+  {
+    "line": "9601 Lavado y limpieza, incluso la limpieza en seco, de productos textiles y de piel."
+  },
+  {
+    "line": "9602 Peluquer�a y otros tratamientos de belleza."
+  },
+  {
+    "line": "9603 Pompas f�nebres y actividades relacionadas."
+  },
+  {
+    "line": "9609 Otras actividades de servicios personales n.c.p."
+  },
+  {
+    "line": "970 Actividades de los hogares individuales como empleadores de personal dom�stico."
+  },
+  {
+    "line": "9700 Actividades de los hogares individuales como empleadores de personal dom�stico."
+  },
+  {
+    "line": "981 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio."
+  },
+  {
+    "line": "9810 Actividades no diferenciadas de los hogares individuales como productores de bienes para uso propio."
+  },
+  {
+    "line": "982 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio."
+  },
+  {
+    "line": "9820 Actividades no diferenciadas de los hogares individuales como productores de servicios para uso propio."
+  },
+  {
+    "line": "990 Actividades de organizaciones y entidades extraterritoriales."
+  },
+  {
+    "line": "9900 Actividades de organizaciones y entidades extraterritoriales."
+  },
+  {
+    "line": "0010 Asalariados"
+  },
+  {
+    "line": "0081 Personas Naturales sin Actividad Econ�mica"
+  },
+  {
+    "line": "0082 Personas Naturales Subsidiadas por Terceros"
+  },
+  {
+    "line": "0090 Rentistas de Capital, solo para personas naturales."
+  },
+  {
+    "line": ""
+  }
+]
